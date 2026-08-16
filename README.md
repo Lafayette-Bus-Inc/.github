@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚌 Welcome to Lafayette Bus Inc.
+# Welcome to Lafayette Bus Inc.
 
 **The Official GitHub Organization for Lafayette Bus Inc. (ROBLOX)**
 
